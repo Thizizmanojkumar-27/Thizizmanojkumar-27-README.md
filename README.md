@@ -1,6 +1,6 @@
 # Hi 👋 I'm Manoj Kumar
 
-🎓 Final-Year Computer Science Student  
+🎓 Final-Year Bachelor of computer applications Student  
 💻 Full-Stack Developer (Java)  
 🎯 Actively Preparing for Placements  
 
