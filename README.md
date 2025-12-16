@@ -69,12 +69,6 @@ Currently focused on **placements** and improving **DSA + system design basics**
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Thizizmanojkumar-27&theme=radical)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: **manojkumar.twenty7@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
