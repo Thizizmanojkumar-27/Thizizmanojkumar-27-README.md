@@ -76,8 +76,8 @@ Currently focused on **placements** and improving **DSA + system design basics**
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **your-email@gmail.com**
-- 💼 LinkedIn: **your-link-here**
+- 📧 Email: **manojkumar.twenty7@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 ---
 
