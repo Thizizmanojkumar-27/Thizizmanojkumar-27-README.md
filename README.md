@@ -1,8 +1,8 @@
 # Hi 👋 I'm Manoj Kumar
 
-🎓 Final-Year Bachelor of computer applications Student 
-💻 Full-Stack Developer (Java)
-🎯 Actively Preparing for Placements  
+🎓 Final-Year Bachelor of computer applications Student | 
+💻 Full-Stack Developer (Java) |
+🎯 Actively Preparing for Placements | 
 
 ---
 
