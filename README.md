@@ -1,20 +1,22 @@
 Hi there, I'm Manoj Kumar 👋
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D6366F1%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull-Stack%2BJava%2BDeveloper%3BFinal-Year%2BBCA%2BStudent%3BProblem%2BSolver%3BPlacement%2BReady" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D6366F1%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DFull-Stack%2BJava%2BDeveloper%3BFinal-Year%2BBCA%2BStudent%3BProblem%2BSolver%2B%2526%2BTech%2BEnthusiast%3BActively%2BPreparing%2Bfor%2BPlacements" alt="Typing SVG" />
 </p>
 
 🚀 About Me
 
-I am a Full-Stack Developer specializing in the Java ecosystem. I bridge the gap between robust backend logic and intuitive frontend interfaces. Currently, I am focused on mastering Data Structures & Algorithms and System Design to prepare for upcoming placements.
+I am a highly motivated Full-Stack Developer with a deep focus on the Java ecosystem. I specialize in building robust backend services while ensuring seamless, responsive user interfaces. My current journey involves diving deep into System Design and DSA to build high-performance applications.
 
-🎓 Final Year Bachelor of Computer Applications (BCA)
+🎓 Academic Status: Final Year Bachelor of Computer Applications (BCA)
 
-💻 Core Focus: Building scalable enterprise applications using Spring Boot.
+💻 Backend Expertise: Crafting scalable microservices using Spring Boot & Hibernate.
 
-🌱 Currently Learning: Advanced Microservices & Cloud Fundamentals.
+🎨 Frontend Craft: Building intuitive UIs with modern CSS frameworks and JavaScript.
 
-🎯 Goal: Contributing to impactful projects in a fast-paced tech environment.
+🌱 Learning Path: Exploring Cloud-native development and Docker/Kubernetes basics.
+
+🎯 Objective: Leveraging my technical skills to solve complex real-world problems.
 
 🛠️ Technical Arsenal
 
@@ -42,25 +44,27 @@ Tools
 
 🎓 EduPulse – Student Feedback System
 
-Tech: Spring Boot, Hibernate, MySQL, HTML/CSS
+Tech Stack: Spring Boot, Hibernate, MySQL, HTML/CSS
 
-Developed a comprehensive feedback management portal with role-based access control (Admin/Student).
+Developed a high-security feedback portal with role-based access control (RBAC).
 
-Implemented secure authentication and dynamic reporting modules.
+Features dynamic reporting for faculty and secure feedback loops for students.
 
-🏢 Internship Project - CRUD System
+🏢 Industrial Internship Project
 
-Tech: Java, SQL, JDBC, Web Technologies
+Tech Stack: Java, JDBC, SQL, Servlet/JSP
 
-Built an industry-standard data handling application focusing on real-time CRUD operations.
+Engineered a modular CRUD system designed for enterprise data management.
 
-Optimized database queries for faster data retrieval and processing.
+Focused on database normalization and efficient query performance.
 
 ✅ Smart To-Do Application
 
-Tech: JavaScript, HTML, CSS
+Tech Stack: JavaScript (ES6+), HTML5, CSS3
 
-Designed a lightweight, responsive task manager with local storage persistence.
+Built a sleek, responsive task manager with browser-level data persistence.
+
+Implemented clean UI/UX principles for improved user productivity.
 
 📊 GitHub Stats
 
@@ -72,10 +76,20 @@ Designed a lightweight, responsive task manager with local storage persistence.
 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/manoj-kumar-087447324" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manoj Kumar" height="30" width="40" /></a>
-<a href="mailto:manojkumar.twenty7@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/gmail-new.png" alt="manojkumar.twenty7@gmail.com" height="30" width="30" /></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/manoj-kumar-087447324" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:manojkumar.twenty7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/Thizizmanojkumar-27" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+</a>
 </p>
 
 <p align="center">
+<br />
 <i>"I am passionate about learning, building scalable applications, and contributing to impactful projects."</i>
+<br />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter" width="100%" />
 </p>
