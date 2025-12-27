@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">Full-Stack Java Developer | Placement-Focused Student</h3>
+# Hi 👋 I'm Manoj Kumar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thizizmanojkumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+🎓 Final-Year Bachelor of computer applications Student | 
+💻 Full-Stack Developer (Java) |
+🎯 Actively Preparing for Placements | 
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🎓 Computer Science Student  
-- 💻 Full-Stack Java Developer  
-- 🌱 Currently learning **Advanced Spring Boot & System Design basics**
-- 🚀 Actively preparing for **placements**
-- 📌 Interested in building **real-world web applications**
+## 🚀 About Me
+I am a **full-stack developer** with strong fundamentals in **Java, Spring Boot, SQL, and Web Technologies**.  
+I enjoy building **real-world applications**, writing **clean backend logic**, and designing **user-friendly interfaces**.  
+Currently focused on **placements** and improving **DSA + system design basics**.
 
 ---
 
@@ -40,48 +36,40 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
-
 ## 📌 Featured Projects
 
-🔹 **EduPulse – Student Feedback System**  
-*Spring Boot | Hibernate | MySQL | HTML | CSS*
+### 🎓 EduPulse – Student Feedback System
+**Tech:** Spring Boot | Hibernate | MySQL | HTML | CSS  
+✔ Role-based login (Admin & Student)  
+✔ Secure authentication  
+✔ Feedback management & reporting  
 
-🔹 **Full-Stack CRUD Application**  
-*Java | REST API | MySQL*
+### 🏢 Internship Project
+**Tech:** Java | SQL | Web Technologies  
+✔ CRUD operations  
+✔ Real-time data handling  
+✔ Industry-oriented structure  
 
-🔹 **Internship Project**  
-*Industry-oriented full-stack application*
-
-🔹 **To-Do App**  
-*HTML | CSS | JavaScript*
+### ✅ To-Do Application
+**Tech:** JavaScript | HTML | CSS  
+✔ Task management  
+✔ Clean UI  
+✔ Responsive design  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical" alt="stats" />
-</p>
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical" alt="languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thizizmanojkumar-27&theme=radical" alt="streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-
-- 💼 LinkedIn: *Add your link*
-- 📧 Email: *Add your email*
+- 📧 Email: **manojkumar.twenty7@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 ---
 
-⭐ *Consistent learning, clean code, and placement-focused growth.*
+⭐ *I am passionate about learning, building scalable applications, and contributing to impactful projects.*
