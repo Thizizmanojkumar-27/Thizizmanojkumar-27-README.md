@@ -1,78 +1,87 @@
-# Hi 👋 I'm Manoj Kumar
+<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
+<h3 align="center">Full-Stack Java Developer | Placement-Focused Student</h3>
 
-🎓 Final-Year Bachelor of computer applications Student | 
-💻 Full-Stack Developer (Java) |
-🎯 Actively Preparing for Placements | 
-
----
-
-## 🚀 About Me
-I am a **full-stack developer** with strong fundamentals in **Java, Spring Boot, SQL, and Web Technologies**.  
-I enjoy building **real-world applications**, writing **clean backend logic**, and designing **user-friendly interfaces**.  
-Currently focused on **placements** and improving **DSA + system design basics**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thizizmanojkumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🙋‍♂️ About Me
 
-### 👨‍💻 Backend
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-- JDBC
+- 🎓 Computer Science Student  
+- 💻 Full-Stack Java Developer  
+- 🌱 Currently learning **Advanced Spring Boot & System Design basics**
+- 🚀 Actively preparing for **placements**
+- 📌 Interested in building **real-world web applications**
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
 ### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🗄️ Database
-- MySQL
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Eclipse / IntelliJ
-- Postman
-- VS Code
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎓 EduPulse – Student Feedback System
-**Tech:** Spring Boot | Hibernate | MySQL | HTML | CSS  
-✔ Role-based login (Admin & Student)  
-✔ Secure authentication  
-✔ Feedback management & reporting  
+🔹 **EduPulse – Student Feedback System**  
+*Spring Boot | Hibernate | MySQL | HTML | CSS*
 
-### 🏢 Internship Project
-**Tech:** Java | SQL | Web Technologies  
-✔ CRUD operations  
-✔ Real-time data handling  
-✔ Industry-oriented structure  
+🔹 **Full-Stack CRUD Application**  
+*Java | REST API | MySQL*
 
-### ✅ To-Do Application
-**Tech:** JavaScript | HTML | CSS  
-✔ Task management  
-✔ Clean UI  
-✔ Responsive design  
+🔹 **Internship Project**  
+*Industry-oriented full-stack application*
+
+🔹 **To-Do App**  
+*HTML | CSS | JavaScript*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical" alt="stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Thizizmanojkumar-27&theme=radical" alt="streak" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **manojkumar.twenty7@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+
+- 💼 LinkedIn: *Add your link*
+- 📧 Email: *Add your email*
 
 ---
 
-⭐ *I am passionate about learning, building scalable applications, and contributing to impactful projects.*
+⭐ *Consistent learning, clean code, and placement-focused growth.*
