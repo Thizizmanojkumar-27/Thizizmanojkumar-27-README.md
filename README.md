@@ -67,15 +67,11 @@ Currently focused on placements and strengthening **DSA and system design basics
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical" />
-</p>
+- Actively building full-stack projects
+- Hands-on experience with real-world applications
+- Consistent learning and improvement in Java and Spring ecosystem
 
 ---
 
