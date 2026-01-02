@@ -1,15 +1,15 @@
 # Hi 👋 I'm Manoj Kumar
 
-🎓 Final-Year Bachelor of computer applications Student | 
-💻 Full-Stack Developer (Java) |
-🎯 Actively Preparing for Placements | 
+🎓 Final-Year Bachelor of Computer Applications Student  
+💻 Full-Stack Java Developer  
+🎯 Actively Preparing for Placements  
 
 ---
 
 ## 🚀 About Me
-I am a **full-stack developer** with strong fundamentals in **Java, Spring Boot, SQL, and Web Technologies**.  
-I enjoy building **real-world applications**, writing **clean backend logic**, and designing **user-friendly interfaces**.  
-Currently focused on **placements** and improving **DSA + system design basics**.
+I am a full-stack developer with strong fundamentals in **Java, Spring Boot, SQL, and Web Technologies**.  
+I enjoy building real-world applications, writing clean backend logic, and designing user-friendly interfaces.  
+Currently focused on placements and strengthening **DSA and system design basics**.
 
 ---
 
@@ -42,41 +42,47 @@ Currently focused on **placements** and improving **DSA + system design basics**
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea)
+
 ---
+
 ## 📌 Featured Projects
 
 ### 🎓 EduPulse – Student Feedback System
 **Tech:** Spring Boot | Hibernate | MySQL | HTML | CSS  
-✔ Role-based login (Admin & Student)  
-✔ Secure authentication  
-✔ Feedback management & reporting  
+- Role-based authentication (Admin & Student)  
+- Secure backend logic  
+- Feedback management and reporting  
 
 ### 🏢 Internship Project
 **Tech:** Java | SQL | Web Technologies  
-✔ CRUD operations  
-✔ Real-time data handling  
-✔ Industry-oriented structure  
+- CRUD operations  
+- Real-time data handling  
+- Industry-oriented structure  
 
 ### ✅ To-Do Application
 **Tech:** JavaScript | HTML | CSS  
-✔ Task management  
-✔ Clean UI  
-✔ Responsive design  
+- Task management  
+- Clean UI  
+- Responsive design  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thizizmanojkumar-27&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizizmanojkumar-27&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **manojkumar.twenty7@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📧 Email: **manojkumar.twenty7@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/manoj-kumar-087447324**
 
 ---
 
-⭐ *I am passionate about learning, building scalable applications, and contributing to impactful projects.*
+⭐ Passionate about learning, building scalable applications, and growing as a software engineer.
