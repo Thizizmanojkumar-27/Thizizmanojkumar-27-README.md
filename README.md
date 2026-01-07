@@ -53,8 +53,8 @@ Currently focused on placements and strengthening **DSA and system design basics
 - Secure backend logic  
 - Feedback management and reporting  
 
-### 🏢 Internship Project
-**Tech:** Java | SQL | Web Technologies  
+### 🏢 FULL STACK [CRUD]
+**Tech:** Javascript | SQL | Web Technologies  
 - CRUD operations  
 - Real-time data handling  
 - Industry-oriented structure  
